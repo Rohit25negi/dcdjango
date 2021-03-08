@@ -25,7 +25,7 @@ SECRET_KEY = '03#(v^$q_xq-^=m7+4n3c&m4^dmfqs69&*n9x&9+-2z3v^mxfl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['65.1.114.33']
+ALLOWED_HOSTS = ['dcdjango-dev.ap-south-1.elasticbeanstalk.com']
 
 
 # Application definition
