@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 asgiref==3.3.1
 attrs==20.3.0
-awsebcli
 bcrypt==3.2.0
 blessed==1.18.0
-botocore==1.19.63
 cached-property==1.5.2
 cement==2.8.2
 certifi==2020.12.5
